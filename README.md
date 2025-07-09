@@ -24,4 +24,4 @@ B站、抖音、YouTube 对成人内容管理非常严格，即使仅是封面�
 
 最后也要注意路由器日志记录，一些高阶家庭路由会存储历史IP访问记录。建议定期重启路由、更改设备名，降低暴露风险。
 
-<span style="display:none;">[Canonical link]( https://github.com/add0700925 ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/add0700925/ribenav123 ）</span>
